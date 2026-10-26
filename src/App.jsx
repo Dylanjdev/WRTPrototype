@@ -69,6 +69,21 @@ const interiorPages = {
     eyebrow: 'About White Rock',
     title: 'Built around the work. Focused on the build.',
     intro: 'White Rock Truss & Components brings component planning, manufacturing, and delivery coordination together in Rose Hill, Virginia. Our role is to give builders a clear path from project drawings to jobsite-ready components.',
+    metaTitle: 'About White Rock Truss | Rose Hill, VA Manufacturer',
+    metaDescription: 'Learn about White Rock Truss & Components, a Rose Hill, Virginia truss manufacturer serving builders with engineered wood products since 2005.',
+    seoTitle: 'A Southwest Virginia truss manufacturer built to support builders',
+    seoIntro: 'Established in Lee County in 2005, White Rock Truss & Components has grown around a straightforward purpose: help builders move from construction plans to coordinated structural components. From our Rose Hill manufacturing operation, we work with residential contractors, commercial project teams, agricultural builders, and home improvement retailers that need dependable information and a practical ordering process.',
+    seoBlocks: [
+      ['Manufacturing rooted in Rose Hill, Virginia', 'White Rock Truss & Components operates at 21437 Wilderness Road in Rose Hill, Virginia. Being based in the heart of Southwest Virginia gives our team a direct connection to the contractors, suppliers, and communities building across the region. Customers can speak with a real project team about roof trusses, floor trusses, engineered lumber, hardware, and coordinated delivery requirements.'],
+      ['A process designed around construction documents', 'Every successful component package begins with clear information. The White Rock process starts with plans, spans, loading criteria, building dimensions, project location, and anticipated timing. That information supports project review, component planning, approvals, manufacturing, and delivery coordination. Keeping those steps connected helps builders identify questions early and prepare the jobsite before components arrive.'],
+      ['Continuing to invest in regional manufacturing', 'White Rock has continued to invest in its Lee County operation. A 2025 expansion added momentum to the company’s manufacturing capacity and regional employment. That growth reflects a long-term commitment to producing construction products and engineered lumber in Southwest Virginia while supporting the contractors and retailers that depend on those materials.'],
+    ],
+    faqs: [
+      ['When was White Rock Truss & Components established?', 'White Rock Truss & Components was established in Lee County, Virginia, in 2005.'],
+      ['Where is White Rock Truss located?', 'The company is located at 21437 Wilderness Road, Rose Hill, VA 24281.'],
+      ['Who does White Rock Truss work with?', 'White Rock supports residential construction companies, commercial and agricultural builders, contractors, and home improvement retailers. Project fit and delivery availability are confirmed during the quote process.'],
+      ['How does a truss project get started?', 'Send available construction plans, project location, contact information, and schedule details. The team will review the scope and identify any additional information needed for quoting.'],
+    ],
     media: 'FACILITY / TEAM IMAGE PLACEHOLDER',
     sections: [
       ['Our Process', 'A practical sequence that moves from plan review and project coordination through manufacturing and delivery planning.', 'engineering'],
@@ -83,6 +98,22 @@ const interiorPages = {
     eyebrow: 'Truss Engineering & Manufacturing',
     title: 'Structural systems made for the project.',
     intro: 'From straightforward roof packages to open-web floor systems and custom profiles, each project begins with your plans, requirements, and construction sequence.',
+    metaTitle: 'Roof & Floor Truss Manufacturer | White Rock Truss VA',
+    metaDescription: 'Explore roof trusses, open-web floor trusses, and custom timber truss solutions manufactured by White Rock Truss in Rose Hill, Virginia.',
+    seoTitle: 'Roof and floor truss manufacturing for residential, commercial, and agricultural construction',
+    seoIntro: 'White Rock Truss & Components manufactures structural wood truss systems from its Rose Hill, Virginia facility. Our team works from project drawings and required building information to develop component packages for new homes, multi-family projects, commercial buildings, barns, agricultural structures, additions, and other wood-framed construction.',
+    seoBlocks: [
+      ['Roof trusses planned around the building', 'A roof truss package must account for more than overall span. Pitch, heel height, overhangs, bearing conditions, roof openings, loading criteria, gable conditions, and architectural transitions all affect the final system. White Rock reviews the available plans and project information so the roof trusses can be coordinated around the intended building geometry and construction sequence.'],
+      ['Open-web floor trusses for flexible building systems', 'Open-web floor trusses create accessible pathways for plumbing, electrical, and mechanical work while supporting long, consistent floor layouts. They can be useful in residential and light-commercial construction where service coordination and floor depth matter. Required span, spacing, depth, bearing locations, and loading information should be included with the project plans.'],
+      ['Specialty profiles and custom timber applications', 'Complex rooflines, vaulted areas, attic conditions, agricultural buildings, and distinctive timber features may require a more collaborative review. Share architectural plans, structural information, reference details, and known field conditions early. The team can then evaluate the requested profiles and confirm whether the project fits White Rock’s manufacturing capabilities.'],
+      ['Information that helps produce an accurate truss quote', 'For the best starting point, provide a complete plan set, building location, wall and bearing layout, roof pitch, overhangs, desired spacing, loading requirements, and target schedule. If the plans are still developing, call the team to discuss which documents are ready and what information should follow.'],
+    ],
+    faqs: [
+      ['What types of roof trusses does White Rock manufacture?', 'White Rock works with roof truss packages for residential, commercial, and agricultural construction. Final availability depends on the project design, loading, dimensions, and manufacturing scope.'],
+      ['What is an open-web floor truss?', 'An open-web floor truss is a wood structural component with open spaces through the web, allowing many mechanical, electrical, and plumbing services to pass through the floor system.'],
+      ['Can White Rock review custom or specialty truss designs?', 'Yes. Submit the architectural and structural information for review. The team will evaluate the requested geometry and confirm project fit.'],
+      ['What files should I send for a truss quote?', 'PDF construction plans are a useful starting point. Include contact information, the project address, expected schedule, and any available structural criteria or component specifications.'],
+    ],
     media: 'TRUSS PRODUCTION IMAGE PLACEHOLDER',
     sections: [
       ['Roof Trusses', 'Residential, commercial, and agricultural roof systems developed around the project drawings and required profiles.', 'timber'],
@@ -97,6 +128,22 @@ const interiorPages = {
     eyebrow: 'Engineered Lumber & Components',
     title: 'Bring the structural package together.',
     intro: 'Coordinate compatible engineered lumber, connection hardware, and available wall components around your truss order through one project conversation.',
+    metaTitle: 'Engineered Lumber, LVL & I-Joists | Rose Hill, VA',
+    metaDescription: 'Coordinate I-joists, LVL beams, hardware, hangers, and available wall components with White Rock Truss & Components in Rose Hill, VA.',
+    seoTitle: 'Engineered lumber and building components coordinated with your truss package',
+    seoIntro: 'A framing package often involves more than roof and floor trusses. White Rock Truss & Components helps customers coordinate engineered wood products and compatible connection hardware alongside the primary truss order. Bringing these materials into the same project conversation can simplify takeoffs, reduce product mismatches, and give the jobsite a clearer picture of what will arrive.',
+    seoBlocks: [
+      ['I-joists for consistent floor framing', 'Wood I-joists are commonly used for floor and roof framing where consistent dimensions, long lengths, and efficient installation are important. Product selection depends on span, spacing, depth, loading, and the layout shown in the construction documents. Provide the floor plans and known framing criteria so available I-joist options can be reviewed with the rest of the component package.'],
+      ['LVL beams for concentrated structural requirements', 'Laminated veneer lumber, commonly called LVL, is an engineered wood product used for beams, headers, rim conditions, and other structural applications. Required size and specification must come from the project design. White Rock can help coordinate the listed LVL material with trusses, I-joists, and related framing components.'],
+      ['Hardware and hangers that match the application', 'Hangers, ties, and other connectors are small parts with an important role. Connection hardware should match the component type, loading, bearing condition, and project details. Including the required hardware in the material review helps the builder prepare for installation and reduces last-minute sourcing at the jobsite.'],
+      ['Wall component availability', 'Wall panel needs vary by project and production schedule. If prefabricated wall components are part of your building plan, include them in the initial inquiry. The White Rock team will confirm current availability, required information, and whether the requested wall package fits the project scope.'],
+    ],
+    faqs: [
+      ['Does White Rock supply I-joists and LVL beams?', 'White Rock coordinates engineered lumber options, including I-joists and LVL products, based on project requirements and current availability.'],
+      ['Can hardware and hangers be included with a truss order?', 'Compatible connection hardware can be reviewed as part of the component package. The required products depend on the approved project details.'],
+      ['What information is needed for engineered lumber?', 'Provide floor and roof plans, structural notes, spans, spacing, loading criteria, and specified product information when available.'],
+      ['Are wall panels available for every project?', 'Wall component availability is project-specific. Ask the team to review the requested wall package with your plans and schedule.'],
+    ],
     media: 'COMPONENT PACKAGE IMAGE PLACEHOLDER',
     sections: [
       ['I-Joists & LVL Beams', 'Engineered lumber options for floor, header, and beam requirements within the broader structural package.', 'engineering'],
@@ -111,6 +158,22 @@ const interiorPages = {
     eyebrow: 'Contractor Resources & Forms',
     title: 'Project information in the right place.',
     intro: 'Start a quote, attach project plans, and prepare your team for delivery. This page is the working hub for contractor forms and approved planning documents.',
+    metaTitle: 'Request a Truss Quote & Upload Plans | White Rock',
+    metaDescription: 'Request a roof or floor truss quote, upload construction plans, and find contractor delivery resources from White Rock Truss in Rose Hill, VA.',
+    seoTitle: 'Request a truss quote and prepare your project for production',
+    seoIntro: 'The quality of a truss or component quote depends on the quality of the project information provided. This contractor resource center gives builders, estimators, project managers, and homeowners a direct place to send plans, outline the requested scope, and prepare for later delivery coordination.',
+    seoBlocks: [
+      ['Start with the most complete plan set available', 'Architectural floor plans, roof plans, elevations, sections, and structural notes help define the component scope. Include the project address, building use, contact information, and anticipated construction schedule. If there are revisions, identify the current drawing date so the team knows which documents should guide the quote.'],
+      ['Include the details that affect truss pricing', 'Roof pitch, spans, wall and bearing locations, overhangs, truss spacing, floor depth, openings, loading requirements, hangers, and specialty conditions may all affect a quote. Some of these items appear in the plan set; others may need to be supplied separately. Clear notes reduce follow-up questions and help the review move efficiently.'],
+      ['Plan for delivery before the truck is scheduled', 'A component delivery requires appropriate road access, a stable unloading or staging area, and room for the delivery equipment to operate. Overhead lines, narrow entrances, steep grades, soft ground, traffic, and limited turning space should be discussed in advance. Delivery availability and site requirements are confirmed for each order.'],
+      ['Keep revisions and approvals organized', 'Construction documents often change. Send revised sheets promptly and clearly identify what changed. Before production, confirm that the project information, quantities, dimensions, profiles, and delivery details reflect the current build. The final approved package should be the shared reference for the contractor and manufacturer.'],
+    ],
+    faqs: [
+      ['How do I request a truss quote?', 'Complete the project inquiry form, attach available plans, and include the project location, building type, contact information, and expected schedule. You can also email plans to Quotes@WhiteRockTruss.com.'],
+      ['Which file types can I upload?', 'The website form is prepared for PDF, DWG, DXF, JPG, JPEG, and PNG files. The final form connection must be configured before online uploads can be delivered.'],
+      ['How long does a quote take?', 'Quote timing varies with project size, plan completeness, complexity, current workload, and the need for additional information. Call the team for current scheduling.'],
+      ['What should be ready before truss delivery?', 'Confirm road access, unloading space, ground conditions, overhead clearance, staging location, and an authorized jobsite contact. Discuss unusual access conditions before delivery is scheduled.'],
+    ],
     media: 'PLAN REVIEW IMAGE PLACEHOLDER',
     kind: 'resources',
     sections: [
@@ -126,6 +189,22 @@ const interiorPages = {
     eyebrow: 'Project Gallery',
     title: 'Work that shows what the details can do.',
     intro: 'This gallery is structured for completed residential, commercial, and agricultural work. Replace the placeholders with strong jobsite photography as the project library grows.',
+    metaTitle: 'Truss Project Gallery | Residential & Commercial Work',
+    metaDescription: 'Explore residential, commercial, and agricultural truss project categories from White Rock Truss & Components in Rose Hill, Virginia.',
+    seoTitle: 'Wood truss and structural component projects across multiple building types',
+    seoIntro: 'Every building asks something different of its structural components. White Rock Truss & Components works across residential, commercial, and agricultural construction, coordinating truss and engineered lumber packages around the plans, building use, and jobsite requirements. This gallery framework will document that range as completed-project photography is added.',
+    seoBlocks: [
+      ['Residential roof and floor systems', 'Residential projects can range from straightforward single-story homes to multi-level plans with intersecting rooflines, vaulted rooms, porches, garages, and open floor layouts. A strong project gallery should show both the overall building and the component details that helped create its final form.'],
+      ['Commercial and light-commercial construction', 'Commercial component packages may involve broader footprints, repeated framing conditions, schedule coordination, and close alignment with architectural and structural documents. Future case studies can identify the building type, component scope, coordination considerations, and delivery sequence without disclosing private customer information.'],
+      ['Barns and agricultural buildings', 'Agricultural construction often calls for open interior space, practical roof geometry, durable materials, and a component package suited to the building’s intended use. Barns, storage buildings, equipment shelters, and other rural structures can demonstrate the range of roof truss applications.'],
+      ['What to include in a completed-project case study', 'Useful project stories go beyond a finished exterior photograph. Wide jobsite views, installed trusses, connection details, delivery images, and concise notes about the component scope give contractors a clearer understanding of the work. All future gallery content should use approved project information and image permissions.'],
+    ],
+    faqs: [
+      ['What types of projects does White Rock Truss support?', 'The company works with residential, commercial, and agricultural construction. Project fit depends on the plans, location, schedule, and requested component scope.'],
+      ['Will this gallery include active construction photos?', 'The page is prepared for both completed-building photography and approved in-progress images that show truss installation or component details.'],
+      ['Can contractors submit project photos?', 'Contractors can contact White Rock about approved project photography. Any customer, project, or location details should be cleared before publication.'],
+      ['How can I request a quote for a similar project?', 'Use the contractor resource page to upload plans and describe the project type, location, schedule, and required components.'],
+    ],
     media: 'FEATURED PROJECT IMAGE PLACEHOLDER',
     kind: 'projects',
     sections: [
@@ -141,12 +220,28 @@ const interiorPages = {
     eyebrow: 'Contact White Rock',
     title: 'Let’s talk about what you’re building.',
     intro: 'Call the White Rock team or send the project basics through the form below. Include the location, anticipated schedule, and plans when available.',
+    metaTitle: 'Contact White Rock Truss | Rose Hill, Virginia',
+    metaDescription: 'Contact White Rock Truss & Components at 21437 Wilderness Road, Rose Hill, VA. Call (276) 445-5990 or email plans for a quote.',
+    seoTitle: 'Contact a truss manufacturer in Rose Hill, Virginia',
+    seoIntro: 'White Rock Truss & Components is located at 21437 Wilderness Road in Rose Hill, Virginia. Contractors, builders, retailers, and project owners can call during weekday business hours to discuss roof trusses, floor trusses, engineered lumber, hardware, component availability, quoting requirements, and delivery planning.',
+    seoBlocks: [
+      ['Call or visit White Rock Truss', 'The office is open Monday through Friday from 8:00 a.m. to 5:00 p.m. Call (276) 445-5990 before visiting to confirm the right project contact is available. The Rose Hill facility is closed Saturday and Sunday.'],
+      ['Email plans for a project quote', 'Send available construction drawings and quote information to Quotes@WhiteRockTruss.com. Include your name, company, phone number, project address, requested component scope, and target schedule. Large or specialized files may require a coordinated transfer method.'],
+      ['Discuss project location and delivery access', 'White Rock reviews delivery availability by project. Provide the complete jobsite address and describe access limitations such as narrow roads, steep grades, overhead utilities, limited turning space, soft ground, or special staging requirements. Confirming those conditions early helps the team plan appropriately.'],
+      ['Ask the right questions early', 'If you are unsure which plans or specifications to send, call before submitting. A short conversation can clarify the requested truss type, engineered lumber needs, drawing status, decision timeline, and the information required for the next step.'],
+    ],
+    faqs: [
+      ['What is White Rock Truss’s phone number?', 'Call White Rock Truss & Components at (276) 445-5990.'],
+      ['What is the company address?', 'White Rock Truss & Components is located at 21437 Wilderness Road, Rose Hill, VA 24281.'],
+      ['What are the business hours?', 'The office is open Monday through Friday from 8:00 a.m. to 5:00 p.m. and closed Saturday and Sunday.'],
+      ['Where should I email construction plans?', 'Send quote plans and project information to Quotes@WhiteRockTruss.com.'],
+    ],
     media: 'OFFICE / TEAM IMAGE PLACEHOLDER',
     kind: 'contact',
     sections: [
       ['Call the Team', '(276) 445-5990 — the direct starting point for questions, project fit, and scheduling conversations.', 'phone'],
-      ['Rose Hill, Virginia', 'Company operations are based in Rose Hill, serving builders and project teams throughout the surrounding region.', 'pin'],
-      ['Project Inquiries', 'Send project details and available drawing files so the team can begin reviewing the scope.', 'upload'],
+      ['Visit in Rose Hill, Virginia', '21437 Wilderness Road, Rose Hill, VA 24281. Open Monday through Friday from 8:00 a.m. to 5:00 p.m.', 'pin'],
+      ['Email Project Plans', 'Send project details and available drawing files to Quotes@WhiteRockTruss.com for quote review.', 'upload'],
     ],
     callout: 'Business hours, a street address, and a destination email can be added here once confirmed.',
   },
@@ -156,6 +251,22 @@ const interiorPages = {
     eyebrow: 'Privacy & Terms',
     title: 'Clear policies for a professional website.',
     intro: 'This page provides structured placeholders for the final privacy policy and terms and conditions. The approved legal language should be reviewed before the site goes live publicly.',
+    metaTitle: 'Privacy Policy & Website Terms | White Rock Truss',
+    metaDescription: 'Review the website privacy notice and terms for White Rock Truss & Components, including project inquiries and uploaded construction plans.',
+    seoTitle: 'Website privacy, project files, and terms of use',
+    seoIntro: 'White Rock Truss & Components respects the importance of the contact information, construction plans, and project details submitted through its website. The following draft content explains the intended handling of website inquiries and establishes basic terms for using online information. It must be reviewed against the final form provider, analytics setup, and company procedures before public launch.',
+    seoBlocks: [
+      ['Information submitted through the website', 'The website may collect information that a visitor chooses to provide, including a name, company, email address, phone number, project location, project notes, and uploaded construction documents. Basic technical information may also be collected by the hosting or analytics provider when those services are enabled.'],
+      ['How inquiry information may be used', 'Submitted information may be used to respond to questions, evaluate a project inquiry, prepare or discuss a quote, coordinate documents, communicate about products or services, improve website performance, and maintain business records. Online submission does not create a contract or guarantee acceptance, pricing, production, or delivery.'],
+      ['Project plans and document handling', 'Construction plans may contain confidential or project-specific information. Visitors should submit only documents they are authorized to share. White Rock should define retention, access, deletion, and third-party file-transfer procedures before enabling live uploads. Sensitive personal, financial, or protected information should not be included in website submissions.'],
+      ['Website content and project decisions', 'Website content is general business information and is not a substitute for project-specific architectural, structural, engineering, code, installation, or legal advice. Product availability, specifications, pricing, lead times, delivery, and project acceptance must be confirmed directly in the applicable quote, approval, or agreement.'],
+    ],
+    faqs: [
+      ['Does submitting a form create an order?', 'No. A website inquiry or file upload is only a request for contact or review. Orders, pricing, scope, approvals, and delivery are governed by separate project documents.'],
+      ['Should sensitive information be included with uploaded plans?', 'Do not submit financial account data, government identification numbers, medical information, or other sensitive personal information through the project form.'],
+      ['Are website specifications final for construction?', 'No. Website descriptions are general. Use the approved project documents, manufacturer information, and applicable professional guidance for construction decisions.'],
+      ['Who should review this legal page?', 'The company should have qualified legal counsel review the final privacy notice and terms based on the actual website tools and business procedures.'],
+    ],
     media: 'DOCUMENT / BRAND IMAGE PLACEHOLDER',
     kind: 'legal',
     sections: [
@@ -165,6 +276,74 @@ const interiorPages = {
     ],
     callout: 'These sections are intentionally labeled as draft placeholders and are not a substitute for approved legal language.',
   },
+}
+
+const homeSeo = {
+  metaTitle: 'White Rock Truss & Components | Rose Hill, VA',
+  metaDescription: 'Roof trusses, floor trusses, engineered lumber, and building components manufactured in Rose Hill, Virginia. Request a quote from White Rock Truss.',
+  seoTitle: 'Truss manufacturing and engineered building components in Rose Hill, Virginia',
+  seoIntro: 'White Rock Truss & Components manufactures roof trusses, open-web floor trusses, and structural building components from its Rose Hill facility in Lee County, Virginia. Since 2005, the company has supplied construction products and engineered lumber to residential contractors, commercial and agricultural builders, and home improvement retailers.',
+  seoBlocks: [
+    ['Roof trusses made from project plans', 'Residential, commercial, and agricultural roof truss packages begin with the building plans and required project information. Pitch, span, overhangs, bearing locations, openings, loading criteria, and specialty conditions are reviewed as part of the component scope.'],
+    ['Floor trusses and engineered lumber', 'Open-web floor trusses can provide useful pathways for mechanical, electrical, and plumbing systems. I-joists, LVL beams, hangers, and other engineered components may also be coordinated around the project requirements and current availability.'],
+    ['Contractor-focused quoting and delivery planning', 'Builders can submit construction plans, project details, and schedule information for review. As the order develops, delivery location, site access, staging space, and timing are coordinated with the customer.'],
+    ['A growing Southwest Virginia manufacturer', 'White Rock has continued investing in its Lee County manufacturing operation. The company’s recent expansion reflects its long-term commitment to regional production, construction customers, and skilled manufacturing work in Southwest Virginia.'],
+  ],
+  faqs: [
+    ['Where is White Rock Truss & Components located?', 'White Rock Truss is located at 21437 Wilderness Road, Rose Hill, Virginia 24281.'],
+    ['What products does White Rock manufacture and supply?', 'The company works with roof trusses, open-web floor trusses, engineered lumber, compatible hardware, and other available structural building components.'],
+    ['How do I get a quote?', 'Send construction plans and project information through the contractor resources page, email Quotes@WhiteRockTruss.com, or call (276) 445-5990.'],
+    ['Does White Rock deliver to my area?', 'Delivery availability depends on the project location, order, site access, and schedule. Contact the team with the complete jobsite address for confirmation.'],
+  ],
+}
+
+function SeoContent({ content, pageKind }) {
+  return (
+    <>
+      <section className="seo-content-section section">
+        <div className="container seo-content-layout">
+          <div className="seo-content-heading">
+            <div className="section-label"><span>PROJECT KNOWLEDGE</span> WHITE ROCK TRUSS</div>
+            <h2>{content.seoTitle}</h2>
+            <p>{content.seoIntro}</p>
+          </div>
+          <div className="seo-copy-grid">
+            {content.seoBlocks.map(([title, text], index) => (
+              <article key={title} id={pageKind === 'legal' && index === 0 ? 'privacy' : pageKind === 'legal' && index === 3 ? 'terms' : undefined}>
+                <span>0{index + 1}</span>
+                <div><h3>{title}</h3><p>{text}</p></div>
+              </article>
+            ))}
+          </div>
+          <nav className="seo-related-links" aria-label="Related pages">
+            <span>EXPLORE WHITE ROCK</span>
+            <a href="/truss-engineering">Truss Systems <Icon name="arrow" size={16} /></a>
+            <a href="/components">Engineered Components <Icon name="arrow" size={16} /></a>
+            <a href="/contractor-resources#quote">Request a Quote <Icon name="arrow" size={16} /></a>
+            <a href="/contact">Contact the Team <Icon name="arrow" size={16} /></a>
+          </nav>
+        </div>
+      </section>
+
+      <section className="faq-section section">
+        <div className="container faq-layout">
+          <div className="faq-heading">
+            <div className="section-label"><span>FAQ</span> COMMON QUESTIONS</div>
+            <h2>What builders ask.</h2>
+            <p>Quick answers about working with White Rock Truss & Components.</p>
+          </div>
+          <div className="faq-list">
+            {content.faqs.map(([question, answer], index) => (
+              <details key={question} open={index === 0}>
+                <summary><span>{question}</span><b>+</b></summary>
+                <p>{answer}</p>
+              </details>
+            ))}
+          </div>
+        </div>
+      </section>
+    </>
+  )
 }
 
 function InteriorPage({ page, submitted, setSubmitted, fileName, setFileName, handleSubmit }) {
@@ -221,6 +400,8 @@ function InteriorPage({ page, submitted, setSubmitted, fileName, setFileName, ha
           <div className="interior-callout"><Icon name="check" /><p>{page.callout}</p></div>
         </div>
       </section>
+
+      <SeoContent content={page} pageKind={page.kind} />
 
       {page.kind === 'projects' && (
         <section className="projects-section section">
@@ -303,10 +484,16 @@ function App() {
   }, [menuOpen])
 
   useEffect(() => {
-    document.title = currentPage
-      ? `${currentPage.eyebrow} | White Rock Truss & Components`
-      : 'White Rock Truss & Components | Rose Hill, Virginia'
-  }, [currentPage])
+    const seo = currentPage || homeSeo
+    document.title = seo.metaTitle
+    document.querySelector('meta[name="description"]')?.setAttribute('content', seo.metaDescription)
+    document.querySelector('meta[property="og:title"]')?.setAttribute('content', seo.metaTitle)
+    document.querySelector('meta[property="og:description"]')?.setAttribute('content', seo.metaDescription)
+    const canonicalPath = currentPage ? path : '/'
+    const canonicalUrl = `https://www.whiterocktruss.com${canonicalPath}`
+    document.querySelector('link[rel="canonical"]')?.setAttribute('href', canonicalUrl)
+    document.querySelector('meta[property="og:url"]')?.setAttribute('content', canonicalUrl)
+  }, [currentPage, path])
 
   const closeMenu = () => setMenuOpen(false)
 
@@ -570,6 +757,8 @@ function App() {
           </div>
         </section>
 
+        <SeoContent content={homeSeo} />
+
         <section className="quote-section" id="quote">
           <div className="container quote-layout">
             <div className="quote-intro">
@@ -626,7 +815,7 @@ function App() {
           </div>
           <div className="footer-column"><h3>Capabilities</h3><a href="/truss-engineering">Roof Trusses</a><a href="/truss-engineering">Floor Trusses</a><a href="/truss-engineering">Specialty & Custom</a><a href="/components">Engineered Lumber</a></div>
           <div className="footer-column"><h3>Company</h3><a href="/about">About Us</a><a href="/about">Process & Quality</a><a href="/about">Service Area</a><a href="/projects">Project Gallery</a></div>
-          <div className="footer-column footer-contact"><h3>Contact</h3><a href="/contact">Rose Hill, Virginia</a><a href="tel:+12764455990">(276) 445-5990</a><a className="footer-cta" href="/contractor-resources#quote">Request a Quote <Icon name="arrow" size={16} /></a></div>
+          <div className="footer-column footer-contact"><h3>Contact</h3><a href="/contact">21437 Wilderness Road<br />Rose Hill, VA 24281</a><a href="tel:+12764455990">(276) 445-5990</a><a href="mailto:Quotes@WhiteRockTruss.com">Quotes@WhiteRockTruss.com</a><a className="footer-cta" href="/contractor-resources#quote">Request a Quote <Icon name="arrow" size={16} /></a></div>
         </div>
         <div className="container footer-bottom">
           <span>© {new Date().getFullYear()} White Rock Truss & Components, LLC</span>
