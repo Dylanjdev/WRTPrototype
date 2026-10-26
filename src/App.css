@@ -171,6 +171,9 @@
 
 .service-area-section { min-height: 590px; display: grid; grid-template-columns: 1.2fr .8fr; background: #e6e4dc; }
 .service-map { position: relative; min-height: 590px; overflow: hidden; background: #d9d7d0; }
+.service-map iframe { position: absolute; inset: 0; width: 100%; height: 100%; border: 0; filter: grayscale(.12) contrast(1.03); }
+.map-open-link { position: absolute; z-index: 2; left: 28px; bottom: 28px; min-height: 46px; padding: 0 17px; display: inline-flex; align-items: center; gap: 10px; color: white; background: var(--ink); box-shadow: 0 8px 24px rgba(0,0,0,.22); font-size: 9px; font-weight: 850; letter-spacing: .1em; text-decoration: none; text-transform: uppercase; transition: background .2s ease, transform .2s ease; }
+.map-open-link:hover { background: var(--orange); transform: translateY(-2px); }
 .map-grid { position: absolute; inset: 0; opacity: .8; background-image: linear-gradient(25deg, transparent 49%, rgba(113,121,118,.28) 50%, transparent 51%), linear-gradient(-35deg, transparent 47%, rgba(113,121,118,.25) 48%, transparent 49%), linear-gradient(90deg, rgba(255,255,255,.35) 1px, transparent 1px), linear-gradient(rgba(255,255,255,.35) 1px, transparent 1px); background-size: 210px 170px, 250px 220px, 48px 48px, 48px 48px; transform: scale(1.15) rotate(-3deg); }
 .map-route { position: absolute; height: 3px; background: white; transform-origin: left; }
 .route-one { width: 75%; left: -8%; top: 57%; transform: rotate(-13deg); }

@@ -743,11 +743,17 @@ function App() {
         </section>
 
         <section className="service-area-section" id="service-area">
-          <div className="service-map" aria-hidden="true">
-            <div className="map-grid" />
-            <div className="map-route route-one" />
-            <div className="map-route route-two" />
-            <div className="map-pin"><span /><strong>ROSE HILL</strong></div>
+          <div className="service-map">
+            <iframe
+              src="https://www.google.com/maps?q=21437+Wilderness+Road,+Rose+Hill,+VA+24281&output=embed"
+              title="Google Map showing White Rock Truss & Components at 21437 Wilderness Road in Rose Hill, Virginia"
+              loading="eager"
+              referrerPolicy="no-referrer-when-downgrade"
+              allowFullScreen
+            />
+            <a className="map-open-link" href="https://www.google.com/maps/search/?api=1&query=21437+Wilderness+Road%2C+Rose+Hill%2C+VA+24281" target="_blank" rel="noreferrer">
+              Open in Google Maps <Icon name="arrow" size={16} />
+            </a>
           </div>
           <div className="service-area-copy">
             <div className="section-label"><span>07</span> SERVICE AREA & DELIVERY</div>
