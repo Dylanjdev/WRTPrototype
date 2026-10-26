@@ -7,6 +7,7 @@ const routes = [
   { route: 'components', title: 'Engineered Lumber, LVL & I-Joists | Rose Hill, VA', description: 'Coordinate I-joists, LVL beams, hardware, hangers, and available wall components with White Rock Truss & Components in Rose Hill, VA.' },
   { route: 'contractor-resources', title: 'Request a Truss Quote & Upload Plans | White Rock', description: 'Request a roof or floor truss quote, upload construction plans, and find contractor delivery resources from White Rock Truss in Rose Hill, VA.' },
   { route: 'projects', title: 'Truss Project Gallery | Residential & Commercial Work', description: 'Explore residential, commercial, and agricultural truss project categories from White Rock Truss & Components in Rose Hill, Virginia.' },
+  { route: 'careers', title: 'Careers & Employment Applications | White Rock Truss', description: 'Explore career interest areas and submit a general employment application to White Rock Truss & Components in Rose Hill, Virginia.' },
   { route: 'contact', title: 'Contact White Rock Truss | Rose Hill, Virginia', description: 'Contact White Rock Truss & Components at 21437 Wilderness Road, Rose Hill, VA. Call (276) 445-5990 or email plans for a quote.' },
   { route: 'legal', title: 'Privacy Policy & Website Terms | White Rock Truss', description: 'Review the website privacy notice and terms for White Rock Truss & Components, including project inquiries and uploaded construction plans.' },
 ]

@@ -64,7 +64,7 @@ const projects = [
 
 const interiorPages = {
   '/about': {
-    number: '02 / 08',
+    number: '02 / 09',
     nav: 'About',
     eyebrow: 'About White Rock',
     title: 'Built around the work. Focused on the build.',
@@ -93,7 +93,7 @@ const interiorPages = {
     callout: 'A company story video, facility tour, or leadership message can be added to this page when those assets are ready.',
   },
   '/truss-engineering': {
-    number: '03 / 08',
+    number: '03 / 09',
     nav: 'Truss Systems',
     eyebrow: 'Truss Engineering & Manufacturing',
     title: 'Structural systems made for the project.',
@@ -123,7 +123,7 @@ const interiorPages = {
     callout: 'Have a set of plans ready? Send the project files and basic jobsite information to begin a quote review.',
   },
   '/components': {
-    number: '04 / 08',
+    number: '04 / 09',
     nav: 'Components',
     eyebrow: 'Engineered Lumber & Components',
     title: 'Bring the structural package together.',
@@ -153,7 +153,7 @@ const interiorPages = {
     callout: 'Share a material list with your plans so the team can review the complete component scope together.',
   },
   '/contractor-resources': {
-    number: '05 / 08',
+    number: '05 / 09',
     nav: 'Resources',
     eyebrow: 'Contractor Resources & Forms',
     title: 'Project information in the right place.',
@@ -184,7 +184,7 @@ const interiorPages = {
     callout: 'The document buttons are clearly marked placeholders until approved PDF resources are provided.',
   },
   '/projects': {
-    number: '06 / 08',
+    number: '06 / 09',
     nav: 'Projects',
     eyebrow: 'Project Gallery',
     title: 'Work that shows what the details can do.',
@@ -214,8 +214,43 @@ const interiorPages = {
     ],
     callout: 'Each gallery category is ready for a mix of finished-project photos, installation details, and concise project notes.',
   },
+  '/careers': {
+    number: '07 / 09',
+    nav: 'Careers',
+    eyebrow: 'Careers at White Rock',
+    title: 'Build a career where the work takes shape.',
+    intro: 'White Rock Truss & Components accepts general employment applications from people interested in manufacturing, delivery, design support, estimating, and business operations at our Rose Hill, Virginia facility.',
+    metaTitle: 'Careers & Employment Applications | White Rock Truss',
+    metaDescription: 'Explore career interest areas and submit a general employment application to White Rock Truss & Components in Rose Hill, Virginia.',
+    seoTitle: 'Manufacturing careers with White Rock Truss in Rose Hill, Virginia',
+    seoIntro: 'White Rock Truss & Components has manufactured construction products and engineered lumber in Lee County since 2005. Our work connects building plans, materials, production, quality awareness, logistics, and customer service. General applications help the company identify people whose experience and interests may align with current or future hiring needs.',
+    seoBlocks: [
+      ['Work connected to real construction projects', 'The components produced and coordinated in Rose Hill become part of homes, commercial buildings, barns, and agricultural structures. Depending on the role, team members may work with production equipment, lumber and components, project information, material handling, delivery coordination, estimating, or customer communication.'],
+      ['Career interest areas across the operation', 'Applicants may express interest in manufacturing and production, delivery and logistics, design or estimating support, maintenance, administration, or general operations. Listing an area of interest does not mean a position is currently open, but it helps the company understand where an applicant may fit.'],
+      ['What to include with an application', 'Provide accurate contact information, your location, relevant employment history, skills, certifications, and the type of work you are seeking. A concise résumé is helpful but should not include sensitive personal information such as a Social Security number, banking details, medical information, or government identification numbers.'],
+      ['What happens after an application is submitted', 'Applications are reviewed according to current business and staffing needs. Submission does not guarantee an interview, job opening, or offer of employment. If the company wants to discuss a potential opportunity, a representative can contact the applicant using the information provided.'],
+    ],
+    faqs: [
+      ['Does White Rock have specific positions open right now?', 'This page accepts general applications. Current openings and hiring priorities may change, so applicants should identify their preferred work area and relevant experience.'],
+      ['Do I need truss manufacturing experience to apply?', 'Relevant manufacturing or construction experience can be helpful, but applicants may also describe transferable skills, equipment experience, reliability, and interest in learning the work.'],
+      ['Can I apply without a résumé?', 'The form allows an applicant to summarize experience even if a résumé is not available. A résumé can provide additional detail when supplied.'],
+      ['What should I avoid putting in my application?', 'Do not include Social Security numbers, financial account information, medical records, government identification numbers, or other sensitive personal information.'],
+    ],
+    faqTitle: 'What applicants ask.',
+    faqIntro: 'Practical information for submitting a general employment application.',
+    media: 'TEAM / PRODUCTION IMAGE PLACEHOLDER',
+    kind: 'careers',
+    detailTitle: 'Ways to contribute.',
+    detailIntro: 'Select the area closest to your experience or interest. Available opportunities vary with current staffing needs.',
+    sections: [
+      ['Manufacturing & Production', 'General interest in component production, material handling, equipment operation, quality awareness, and plant support.', 'timber'],
+      ['Delivery & Logistics', 'General interest in delivery, yard coordination, material movement, equipment, and jobsite-focused logistics.', 'delivery'],
+      ['Design, Estimating & Operations', 'General interest in project information, estimating support, administration, customer coordination, or related operations.', 'blueprint'],
+    ],
+    callout: 'A general application is not tied to a guaranteed opening and does not guarantee an interview or employment offer.',
+  },
   '/contact': {
-    number: '07 / 08',
+    number: '08 / 09',
     nav: 'Contact',
     eyebrow: 'Contact White Rock',
     title: 'Let’s talk about what you’re building.',
@@ -246,7 +281,7 @@ const interiorPages = {
     callout: 'Business hours, a street address, and a destination email can be added here once confirmed.',
   },
   '/legal': {
-    number: '08 / 08',
+    number: '09 / 09',
     nav: 'Legal',
     eyebrow: 'Privacy & Terms',
     title: 'Clear policies for a professional website.',
@@ -256,14 +291,14 @@ const interiorPages = {
     seoTitle: 'Website privacy, project files, and terms of use',
     seoIntro: 'White Rock Truss & Components respects the importance of the contact information, construction plans, and project details submitted through its website. The following draft content explains the intended handling of website inquiries and establishes basic terms for using online information. It must be reviewed against the final form provider, analytics setup, and company procedures before public launch.',
     seoBlocks: [
-      ['Information submitted through the website', 'The website may collect information that a visitor chooses to provide, including a name, company, email address, phone number, project location, project notes, and uploaded construction documents. Basic technical information may also be collected by the hosting or analytics provider when those services are enabled.'],
-      ['How inquiry information may be used', 'Submitted information may be used to respond to questions, evaluate a project inquiry, prepare or discuss a quote, coordinate documents, communicate about products or services, improve website performance, and maintain business records. Online submission does not create a contract or guarantee acceptance, pricing, production, or delivery.'],
-      ['Project plans and document handling', 'Construction plans may contain confidential or project-specific information. Visitors should submit only documents they are authorized to share. White Rock should define retention, access, deletion, and third-party file-transfer procedures before enabling live uploads. Sensitive personal, financial, or protected information should not be included in website submissions.'],
+      ['Information submitted through the website', 'The website may collect information that a visitor chooses to provide, including a name, company, email address, phone number, project information, employment history, a résumé, and uploaded construction documents. Basic technical information may also be collected by the hosting or analytics provider when those services are enabled.'],
+      ['How submitted information may be used', 'Submitted information may be used to respond to questions, evaluate a project inquiry or employment application, prepare or discuss a quote, coordinate documents, communicate about products, services, or potential opportunities, improve website performance, and maintain business records. Online submission does not create a contract or guarantee project acceptance, an interview, or employment.'],
+      ['Uploaded files and document handling', 'Construction plans and résumés may contain confidential or personal information. Visitors should submit only documents they are authorized to share. White Rock should define retention, access, deletion, and third-party file-transfer procedures before enabling live uploads. Sensitive financial, medical, or protected information should not be included in website submissions.'],
       ['Website content and project decisions', 'Website content is general business information and is not a substitute for project-specific architectural, structural, engineering, code, installation, or legal advice. Product availability, specifications, pricing, lead times, delivery, and project acceptance must be confirmed directly in the applicable quote, approval, or agreement.'],
     ],
     faqs: [
       ['Does submitting a form create an order?', 'No. A website inquiry or file upload is only a request for contact or review. Orders, pricing, scope, approvals, and delivery are governed by separate project documents.'],
-      ['Should sensitive information be included with uploaded plans?', 'Do not submit financial account data, government identification numbers, medical information, or other sensitive personal information through the project form.'],
+      ['Should sensitive information be included with uploaded files?', 'Do not submit Social Security numbers, financial account data, government identification numbers, medical information, or other sensitive personal information through project or employment forms.'],
       ['Are website specifications final for construction?', 'No. Website descriptions are general. Use the approved project documents, manufacturer information, and applicable professional guidance for construction decisions.'],
       ['Who should review this legal page?', 'The company should have qualified legal counsel review the final privacy notice and terms based on the actual website tools and business procedures.'],
     ],
@@ -320,6 +355,7 @@ function SeoContent({ content, pageKind }) {
             <a href="/truss-engineering">Truss Systems <Icon name="arrow" size={16} /></a>
             <a href="/components">Engineered Components <Icon name="arrow" size={16} /></a>
             <a href="/contractor-resources#quote">Request a Quote <Icon name="arrow" size={16} /></a>
+            <a href="/careers">Careers <Icon name="arrow" size={16} /></a>
             <a href="/contact">Contact the Team <Icon name="arrow" size={16} /></a>
           </nav>
         </div>
@@ -329,8 +365,8 @@ function SeoContent({ content, pageKind }) {
         <div className="container faq-layout">
           <div className="faq-heading">
             <div className="section-label"><span>FAQ</span> COMMON QUESTIONS</div>
-            <h2>What builders ask.</h2>
-            <p>Quick answers about working with White Rock Truss & Components.</p>
+            <h2>{content.faqTitle || 'What builders ask.'}</h2>
+            <p>{content.faqIntro || 'Quick answers about working with White Rock Truss & Components.'}</p>
           </div>
           <div className="faq-list">
             {content.faqs.map(([question, answer], index) => (
@@ -343,6 +379,52 @@ function SeoContent({ content, pageKind }) {
         </div>
       </section>
     </>
+  )
+}
+
+function CareerApplication({ submitted, setSubmitted, fileName, setFileName, handleSubmit }) {
+  return (
+    <section className="quote-section career-application-section" id="application">
+      <div className="container quote-layout">
+        <div className="quote-intro">
+          <div className="section-label"><span>GENERAL APPLICATION</span> CAREERS AT WHITE ROCK</div>
+          <h2>Interested in joining the team?</h2>
+          <p>Submit your contact information, area of interest, and relevant experience for consideration when hiring needs arise.</p>
+          <div className="quote-contact"><Icon name="phone" size={26} /><span><small>QUESTIONS ABOUT APPLYING?</small><a href="tel:+12764455990">(276) 445-5990</a></span></div>
+        </div>
+        <form className="quote-form career-form" onSubmit={handleSubmit}>
+          {submitted ? (
+            <div className="form-success" role="status">
+              <div><Icon name="check" size={34} /></div>
+              <h3>Your application information is ready.</h3>
+              <p>This website preview still needs a hiring inbox or applicant system connected before online applications can be delivered. Call <a href="tel:+12764455990">(276) 445-5990</a> in the meantime.</p>
+              <button type="button" onClick={() => setSubmitted(false)}>Start another application</button>
+            </div>
+          ) : (
+            <>
+              <div className="form-heading"><span>EMPLOYMENT APPLICATION</span><small>Fields marked * are required</small></div>
+              <div className="form-grid">
+                <label><span>Full Name *</span><input type="text" name="applicantName" autoComplete="name" placeholder="Your full name" required /></label>
+                <label><span>Email *</span><input type="email" name="applicantEmail" autoComplete="email" placeholder="you@email.com" required /></label>
+                <label><span>Phone *</span><input type="tel" name="applicantPhone" autoComplete="tel" placeholder="(000) 000-0000" required /></label>
+                <label><span>City & State *</span><input type="text" name="applicantLocation" autoComplete="address-level2" placeholder="City, State" required /></label>
+                <label className="full-field"><span>Area of Interest *</span><select name="interestArea" required defaultValue=""><option value="" disabled>Select an area</option><option>Manufacturing & Production</option><option>Delivery & Logistics</option><option>Design or Estimating Support</option><option>Administration & Operations</option><option>General Employment Interest</option></select></label>
+                <label className="full-field"><span>Experience & Skills *</span><textarea name="experience" placeholder="Summarize relevant work experience, equipment knowledge, certifications, construction experience, or transferable skills." rows="6" required /></label>
+              </div>
+              <label className="file-upload">
+                <input type="file" accept=".pdf,.doc,.docx" onChange={(event) => setFileName(event.target.files?.[0]?.name || '')} />
+                <Icon name="upload" size={22} />
+                <span><strong>{fileName || 'Attach your résumé (optional)'}</strong><small>PDF, DOC, or DOCX</small></span>
+                <b>{fileName ? 'CHANGE' : 'BROWSE'}</b>
+              </label>
+              <label className="application-consent"><input type="checkbox" required /><span>I understand this is a general application and does not guarantee an opening, interview, or offer of employment.</span></label>
+              <p className="application-privacy">Do not include Social Security numbers, financial information, medical records, or government identification documents.</p>
+              <button className="button button-primary form-submit" type="submit">Submit General Application <Icon name="arrow" size={18} /></button>
+            </>
+          )}
+        </form>
+      </div>
+    </section>
   )
 }
 
@@ -374,10 +456,10 @@ function InteriorPage({ page, submitted, setSubmitted, fileName, setFileName, ha
             <span>{page.media}</span>
           </div>
           <div className="interior-overview-copy">
-            <div className="section-label"><span>CAPABILITIES</span> PAGE OVERVIEW</div>
+            <div className="section-label"><span>{page.kind === 'careers' ? 'CAREERS' : 'CAPABILITIES'}</span> PAGE OVERVIEW</div>
             <h2>{page.eyebrow}</h2>
             <p>{page.intro}</p>
-            <a className="text-link" href="/contractor-resources#quote">Start a project <Icon name="arrow" size={18} /></a>
+            <a className="text-link" href={page.kind === 'careers' ? '#application' : '/contractor-resources#quote'}>{page.kind === 'careers' ? 'Submit an application' : 'Start a project'} <Icon name="arrow" size={18} /></a>
           </div>
         </div>
       </section>
@@ -385,8 +467,8 @@ function InteriorPage({ page, submitted, setSubmitted, fileName, setFileName, ha
       <section className="interior-detail section dark-section">
         <div className="container">
           <div className="section-heading light-heading">
-            <div><div className="section-label"><span>IN THIS PAGE</span> WHAT WE COVER</div><h2>Built into the scope.</h2></div>
-            <p>Focused information from the original site structure, grouped into one substantial parent page.</p>
+            <div><div className="section-label"><span>IN THIS PAGE</span> WHAT WE COVER</div><h2>{page.detailTitle || 'Built into the scope.'}</h2></div>
+            <p>{page.detailIntro || 'Focused information from the original site structure, grouped into one substantial parent page.'}</p>
           </div>
           <div className="interior-card-grid">
             {page.sections.map(([title, text, icon], index) => (
@@ -431,7 +513,9 @@ function InteriorPage({ page, submitted, setSubmitted, fileName, setFileName, ha
         </section>
       )}
 
-      {showForm ? (
+      {page.kind === 'careers' ? (
+        <CareerApplication submitted={submitted} setSubmitted={setSubmitted} fileName={fileName} setFileName={setFileName} handleSubmit={handleSubmit} />
+      ) : showForm ? (
         <section className="quote-section" id="quote">
           <div className="container quote-layout">
             <div className="quote-intro">
@@ -516,6 +600,7 @@ function App() {
           <a className={path === '/components' ? 'active' : ''} href="/components" onClick={closeMenu}>Components</a>
           <a className={path === '/contractor-resources' ? 'active' : ''} href="/contractor-resources" onClick={closeMenu}>Resources</a>
           <a className={path === '/projects' ? 'active' : ''} href="/projects" onClick={closeMenu}>Projects</a>
+          <a className={path === '/careers' ? 'active' : ''} href="/careers" onClick={closeMenu}>Careers</a>
           <a className="nav-phone" href="tel:+12764455990"><Icon name="phone" size={18} /> (276) 445-5990</a>
           <a className="nav-cta" href="/contractor-resources#quote" onClick={closeMenu}>Request a Quote <Icon name="arrow" size={17} /></a>
         </nav>
@@ -820,7 +905,7 @@ function App() {
             <p>Truss engineering, manufacturing, and components for builders who expect the details to line up.</p>
           </div>
           <div className="footer-column"><h3>Capabilities</h3><a href="/truss-engineering">Roof Trusses</a><a href="/truss-engineering">Floor Trusses</a><a href="/truss-engineering">Specialty & Custom</a><a href="/components">Engineered Lumber</a></div>
-          <div className="footer-column"><h3>Company</h3><a href="/about">About Us</a><a href="/about">Process & Quality</a><a href="/about">Service Area</a><a href="/projects">Project Gallery</a></div>
+          <div className="footer-column"><h3>Company</h3><a href="/about">About Us</a><a href="/about">Process & Quality</a><a href="/about">Service Area</a><a href="/projects">Project Gallery</a><a href="/careers">Careers & Applications</a></div>
           <div className="footer-column footer-contact"><h3>Contact</h3><a href="/contact">21437 Wilderness Road<br />Rose Hill, VA 24281</a><a href="tel:+12764455990">(276) 445-5990</a><a href="mailto:Quotes@WhiteRockTruss.com">Quotes@WhiteRockTruss.com</a><a className="footer-cta" href="/contractor-resources#quote">Request a Quote <Icon name="arrow" size={16} /></a></div>
         </div>
         <div className="container footer-bottom">

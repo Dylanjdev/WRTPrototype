@@ -212,6 +212,10 @@
 .file-upload small { margin-top: 2px; color: #929895; font-size: 9px; }
 .file-upload b { color: var(--orange); font-size: 9px; letter-spacing: .12em; }
 .form-submit { width: 100%; margin-top: 20px; }
+.application-consent { margin-top: 18px; display: grid; grid-template-columns: 18px 1fr; gap: 11px; align-items: start; color: #59605d; font-size: 11px; line-height: 1.55; cursor: pointer; }
+.application-consent input { width: 16px; height: 16px; margin: 1px 0 0; accent-color: var(--orange); }
+.application-privacy { margin: 12px 0 0; color: #858c89; font-size: 9px; line-height: 1.5; }
+.career-application-section .quote-intro > p { max-width: 440px; }
 .form-success { min-height: 500px; display: flex; flex-direction: column; justify-content: center; align-items: center; text-align: center; }
 .form-success > div { width: 66px; height: 66px; display: grid; place-items: center; color: white; background: var(--orange); border-radius: 50%; }
 .form-success h3 { margin: 22px 0 10px; font-family: "Arial Narrow", sans-serif; font-size: 29px; text-transform: uppercase; }
